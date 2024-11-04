@@ -79,4 +79,5 @@ class DefaultFirebaseOptions {
     storageBucket: 'sijagaapp.firebasestorage.app',
     measurementId: 'G-2JTQN3CX6T',
   );
+
 }
