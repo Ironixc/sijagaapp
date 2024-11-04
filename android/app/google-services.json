@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "48889168391",
+    "project_id": "sijagaapp",
+    "storage_bucket": "sijagaapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:48889168391:android:1c6691e4f56d3d898ea0a2",
+        "android_client_info": {
+          "package_name": "com.ake.sijagaapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8Ed32-1gYRHQ_QnDGLs0dpYdvUWW-cbg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
